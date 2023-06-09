@@ -1,15 +1,7 @@
-Wat is je naam?
-Hallo, Tom
-Hoe gaat het?
-Wat is je naam?
-Hallo, Tim
-Hoe gaat het?
-Wat is je naam?
-Hallo, Annelies
-Hoe gaat het?
+Hello, World!
 ----------------------------------------
 python input without prompt: true
-block count: multi
+block count: single
 input block size: 1
-output block size: 3
+output block size: 1
 show line numbers: false
