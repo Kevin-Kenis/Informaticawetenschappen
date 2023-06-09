@@ -1,0 +1,1 @@
+Schrijf een programma dat *Hello, world!* afdrukt in de console.
