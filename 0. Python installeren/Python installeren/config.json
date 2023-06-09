@@ -1,0 +1,17 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hello world"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "9NPajVs_bBvVqMhVgabUCK8jqz4pmvy-bUGuiEeH_TXxrvfuDuvkdpxVRfyajAKs",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
