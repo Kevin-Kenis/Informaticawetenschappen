@@ -1,11 +1,8 @@
 {
   "description": {
     "names": {
-      "nl": "Hello world"
+      "nl": "Python installeren"
     }
-  },
-  "evaluation": {
-    "pythia_judge": "output"
   },
   "labels": [
 
