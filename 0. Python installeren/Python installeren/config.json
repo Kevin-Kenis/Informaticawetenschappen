@@ -1,15 +1,14 @@
 {
   "description": {
     "names": {
-      "nl": "Python installeren",
-      "en": "Getting Python"
+      "nl": "Python installeren"
     }
   },
   "labels": [
 
   ],
   "internals": {
-    "token": "7fCDhwY4TRIRIrgywyi__eJJhtdrNrDApDqAzQq7ez8QCZvpreVDzvDRxBGHVh-J",
+    "token": "3aA7EIgcmsDM8J7ktrjqwbuQjdrb_4E_4SBENjeaE945Yh3G6b7cQVWM55HkytsN",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
